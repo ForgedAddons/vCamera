@@ -1,11 +1,11 @@
 ## Interface: 50400
-## Version: 50400.1
+## Version: 50400.2
 ## Title: |cffc7c7cfv|rCamera
 ## Notes: Max camera distance
-## Author: Drauer | github/ForgedAddons
+## Author: Drauer
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+## X-GitHub: ForgedAddons/vCamera
 
 externals\events.lua
-
 main.lua
