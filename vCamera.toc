@@ -1,8 +1,8 @@
-## Interface: 50400
-## Version: 50400.2
+## Interface: 60000
+## Version: 60000.1
 ## Title: |cffc7c7cfv|rCamera
 ## Notes: Max camera distance
-## Author: Drauer
+## Author: Drauer @Darkspear-EU / vforge @github
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## X-GitHub: ForgedAddons/vCamera

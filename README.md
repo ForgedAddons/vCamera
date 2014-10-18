@@ -1,4 +1,6 @@
 WoW Addon: vCamera
 ========================
 
-Max camera distance
+Sets up max camera distance.
+
+Source: http://github.com/ForgedAddons/vCamera
