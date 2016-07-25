@@ -1,6 +1,3 @@
-WoW Addon: vCamera
-========================
+With the Legion changes it's impossible to hack camera distance.
 
-Sets up max camera distance.
-
-Source: http://github.com/ForgedAddons/vCamera
+Max screenshot quality can be done with new addon: http://github.com/ForgedAddons/vMaxScreenshotQuality
